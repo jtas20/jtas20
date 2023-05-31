@@ -1,16 +1,30 @@
-### Hi there 👋
+## Olá! Sou Tiago Soares, Atualmente Estou Estudando Desenvolvimento Full-Stack De Sites, e Trabalhando Em Projetos Pessoais 👋
 
-<!--
-**jtas20/jtas20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pessoal Se Deseja Me Contatar Ou Solicitar Algum Serviço Acesse Meu Site Clicando [Aqui!](https://tiagosoares.vercel.app/)
 
-Here are some ideas to get you started:
+<!--Serviço usado github: https://github.com/tandpfun/skill-icons#readme-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,react,bootstrap,firebase,netlify,vercel,python,java,git,github" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+    <a href="https://api.whatsapp.com/send?phone=5583996399382&text=Ol%C3%A1,%20Vim%20Pelo%20Seu%20Sobre!!!">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
+    </a>
+    <a href="https://www.linkedin.com/in/tiago-soares-5503a4268/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img>
+    </a>
+    <a href="mailto:devtiagosoares@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></img>
+    </a>
+    <a href="https://tiagosoares.vercel.app">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img>
+    </a>
+</div>
+
+
+
