@@ -1,6 +1,6 @@
-<h1 align='center'>A Developer From Brazil! 👋 </h1>
-##
-Pessoal Se Deseja Me Contatar Ou Solicitar Algum Serviço Acesse Meu Site Clicando [Aqui!](https://tiagosoares.vercel.app/)
+<h1 align='center'>Um Desenvolvedor Do Brasil 👋 </h1>
+
+Acesse Meu Portifólio Clicando Aqui [Link!](https://tiagosoares.vercel.app/)
 
 <!--Serviço usado github: https://github.com/tandpfun/skill-icons#readme-->
 <p align="left">
@@ -21,9 +21,6 @@ Pessoal Se Deseja Me Contatar Ou Solicitar Algum Serviço Acesse Meu Site Clican
     </a>
     <a href="mailto:devtiagosoares@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></img>
-    </a>
-    <a href="https://tiagosoares.vercel.app">
-      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img>
     </a>
 </div>
 
